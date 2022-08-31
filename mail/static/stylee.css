@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+}
+
+textarea {
+    min-height: 400px;
+}
+
+.table {
+    margin: 0;
+}
+
+.email {
+    transition: 0.25s;
+}
+
+.email:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+#email__archive {
+    width: 18px;
+    color: #6c757d;
+    transition: 0.25s;
+}
+
+#email__archive:hover {
+    color: black;
+}
+
+
+.email__read {
+    background-color: white;
+    padding: 0;
+}
+
+.email__notread {
+    background-color: #f5f5f5;
+    padding: 0;
+}
+
+

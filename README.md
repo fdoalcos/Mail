@@ -48,6 +48,10 @@ This project acts like Gmail that is a web-based email service that allows users
 
 ![Untitled design (1)](https://user-images.githubusercontent.com/98495736/208226236-eb7e04b7-2afd-402e-8e11-bbe8f57fce09.png)
 
+- This is its form validation when user enter a wrong password/username
+
+![Untitled design (2)](https://user-images.githubusercontent.com/98495736/208226312-1ceddfef-2ca1-4f7e-bd11-e1e0b973ca1d.png)
+
 
 ## Send Mail
 - When a user submits the email composition form, the form will send a POST request to the server to actually send the email.

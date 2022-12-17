@@ -50,11 +50,11 @@ This project acts like Gmail that is a web-based email service that allows users
 
 
 - This is its form validation when user enter a wrong password/username
-- Futhermore, let's sign as fdoalcos@gmail.com
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/98495736/208226312-1ceddfef-2ca1-4f7e-bd11-e1e0b973ca1d.png)
 
-- This would be fdoalcos@gmail.com main index, its alrady full of inbox because I used lots of test to build this project
+- Futhermore, let's sign as fdoalcos@gmail.com
+- This would be fdoalcos@gmail.com main index, its already full of inbox because it was used for testing while building this project
 
 ![Untitled design (3)](https://user-images.githubusercontent.com/98495736/208226422-41acddbf-7857-46d7-8b32-0e5a4454dd19.png)
 

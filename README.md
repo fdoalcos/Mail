@@ -58,7 +58,9 @@ This project acts like Gmail that is a web-based email service that allows users
 ## Send Mail
 - When a user submits the email composition form, the form will send a POST request to the server to actually send the email.
 - After sending form, it will redirect to the Sent Mailbox to let the user know that it successfuly send an email to the user.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- This would be fdoalcos@gmail.com main index, its alrady full of inbox because I used lots of test to build this project
+
+![Untitled design (3)](https://user-images.githubusercontent.com/98495736/208226422-41acddbf-7857-46d7-8b32-0e5a4454dd19.png)
 
 ## View Mail
 - When a user clicks on an email, the user will be taken to the view email where users see the content of that email such as name of the sender, time it send, etc.

@@ -79,7 +79,7 @@ This project acts like Gmail that is a web-based email service that allows users
 - When a user clicks on an email, the user will be taken to the view email where users see the content of that email such as name of the sender, time it send, etc.
 - Then now, we will login as Francis@gmail.com and we can see fdoalcos@gmail.com's Inbox to us
 
-![Untitled design (20)](https://user-images.githubusercontent.com/98495736/208227715-12685a61-2a5d-4130-9b6e-4d4bdeb46d06.png)
+![Untitled design (21)](https://user-images.githubusercontent.com/98495736/208255634-0609a491-d93e-45ad-8147-3cb3a354383d.png)
 
 - Once we click it, it would open the inbox
 

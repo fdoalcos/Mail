@@ -43,6 +43,8 @@ This project acts like Gmail that is a web-based email service that allows users
 ## Login
 - If user already existed then you can choose to Login
 - This function would only let the user go in with right username and password else will give an error validation
+
+
 ![Untitled design](https://user-images.githubusercontent.com/98495736/208226128-fde81e2a-bb37-40d8-861a-c63cf435813a.png)
 
 

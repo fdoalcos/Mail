@@ -68,7 +68,7 @@ This project acts like Gmail that is a web-based email service that allows users
 - Then will be redirected to the form page and shoul fill up
 - For example, I want to send an email to Francis@gmaiil.com
 
-![image](https://user-images.githubusercontent.com/98495736/208226755-3c072f49-7c17-4401-8f31-309106d25d7a.png)
+![Untitled design (15)](https://user-images.githubusercontent.com/98495736/208227672-199906bf-2788-47c9-9161-460bfa830607.png)
 
 - Then it would be redirected to the Sent mailbox and would load your sent Inbox to Francis@gmail.com
 
@@ -79,7 +79,7 @@ This project acts like Gmail that is a web-based email service that allows users
 - When a user clicks on an email, the user will be taken to the view email where users see the content of that email such as name of the sender, time it send, etc.
 - Then now, we will login as Francis@gmail.com and we can see fdoalcos@gmail.com's Inbox to us
 
-![Untitled design (8)](https://user-images.githubusercontent.com/98495736/208226956-92e0a790-d7f7-4799-b7a0-f5fc044d3aaa.png)
+![Untitled design (20)](https://user-images.githubusercontent.com/98495736/208227715-12685a61-2a5d-4130-9b6e-4d4bdeb46d06.png)
 
 - Once we click it, it would open the inbox
 

@@ -38,14 +38,15 @@ This project acts like Gmail that is a web-based email service that allows users
 ## Register
 - Before going to the main page, users should be able to register first
 - Used Django's built in form models to create a registration for users
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Untitled design](https://user-images.githubusercontent.com/98495736/208226128-fde81e2a-bb37-40d8-861a-c63cf435813a.png)
+
 
 ## Login
 - If user already existed then you can choose to Login
 - This function would only let the user go in with right username and password else will give an error validation
 
 
-![Untitled design](https://user-images.githubusercontent.com/98495736/208226128-fde81e2a-bb37-40d8-861a-c63cf435813a.png)
 
 
 ## Send Mail

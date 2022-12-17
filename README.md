@@ -65,7 +65,7 @@ This project acts like Gmail that is a web-based email service that allows users
 
 ![Untitled design (5)](https://user-images.githubusercontent.com/98495736/208226686-a0c8e12a-3e61-4125-b88e-1305b601a4f0.png)
 
-- Then will be redirected to the form page and shoul fill up
+- Then it will be redirected to the form page and should be fill up
 - For example, I want to send an email to Francis@gmaiil.com
 
 ![Untitled design (15)](https://user-images.githubusercontent.com/98495736/208227672-199906bf-2788-47c9-9161-460bfa830607.png)

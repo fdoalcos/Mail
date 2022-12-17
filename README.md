@@ -237,8 +237,8 @@ This project acts like Gmail that is a web-based email service that allows users
 
 - I have leaned tremendously while building this project, some things that I learned are:
     - **REST APIs** - I already know this before but after doing this project, it made me realize how client and server communicate with one another and how this method would tremendoussly help you web become faster as it would use Client-Side programming language
-    - **Deeper understanding of Django** - This understanding help me become as a better developer at Django as I encountered lot of error while building this project, one useful thing that helped me debug the problem is through reading the documentation and searching  on the web
-    - **Deeper understanding of JavaScript** - This helped me tremendously on my programming career as I understand how it based on clien-side and it really made things become faster and upon understanding this language, it made me become efficient because I now have the ability to connect client to its server that would help the web become more faster and don't need some type of reloading
+    - **Deper understanding of Django** - This understanding help me become as a better developer at Django as I encountered lot of error while building this project, one useful thing that helped me debug the problem is through reading the documentation and searching  on the web
+    - **Deper understanding of JavaScript** - This helped me tremendously on my programming career as I understand how it based on clien-side and it really made things become faster and upon understanding this language, it made me become efficient because I now have the ability to connect client to its server that would help the web become more faster and don't need some type of reloading
 
 
 
